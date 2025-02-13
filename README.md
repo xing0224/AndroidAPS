@@ -13,19 +13,6 @@ DEV:
 [![CircleCI](https://circleci.com/gh/nightscout/AndroidAPS/tree/dev.svg?style=svg)](https://circleci.com/gh/nightscout/AndroidAPS/tree/dev)
 [![codecov](https://codecov.io/gh/nightscout/AndroidAPS/branch/dev/graph/badge.svg?token=EmklfIV6bH)](https://codecov.io/gh/nightscout/AndroidAPS/tree/dev)
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/bitcoin-384-920569.png" srcset="https://cdn.iconscout.com/icon/free/png-512/bitcoin-384-920569.png 2x" alt="Bitcoin Icon" width="100">
-
-3KawK8aQe48478s6fxJ8Ms6VTWkwjgr9f2
-
-## 如何支持此项目？
-软件遵循GPL V3协议，是完全开源免费的，但开发者写代码、维护需要投入大量时间精力。
-大家的支持是项目得以延续的动力。
-支持原版请从上方英文链接捐助。
-支持码农哥加的功能，请点击以下链接或者扫码。
-
-<a href="/Documentation/donation.jpg"><img src="/Documentation/donation.jpg?raw=true" alt="Donation" width="300"></a>
-
-https://afdian.net/a/manong
 ## How to Build
 ## 如何编译
 
